@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Source\MusicNetwork\MusicNetwork\bin\Debug\MusicNetwork.exe.config
+C:\Users\Gabriel\Source\MusicNetwork\MusicNetwork\obj\Debug\MusicNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Source\MusicNetwork\MusicNetwork\bin\Debug\MusicNetwork.exe
+C:\Users\Gabriel\Source\MusicNetwork\MusicNetwork\bin\Debug\MusicNetwork.pdb
+C:\Users\Gabriel\Source\MusicNetwork\MusicNetwork\obj\Debug\MusicNetwork.exe
+C:\Users\Gabriel\Source\MusicNetwork\MusicNetwork\obj\Debug\MusicNetwork.pdb
